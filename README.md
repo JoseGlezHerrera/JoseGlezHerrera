@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend Developer from Canary Islands, Spain</h3>
 
 <p align="center">
-  <img src="https://github.com/JoseGlezHerrera/JoseGlezHerrera/blob/main/ChatGPT%20Image%2012%20abr%202025%2C%2017_46_10.png" width="800" height="250" alt="Cyberpunk Dev GIF"/>
+  <img src="https://github.com/JoseGlezHerrera/JoseGlezHerrera/blob/main/imagenbanner.png" width="800" height="250" alt="Cyberpunk Dev GIF"/>
 </p>
 
 ---
