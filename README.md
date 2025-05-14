@@ -7,11 +7,11 @@
 
 ---
 
-- 🔭 I’m currently working on [Gestor de gastos](https://github.com/KalzKiw/GestorGastos)
+- 🔭 I’m currently working on [Admisión Grupo Oper](https://github.com/JoseGlezHerrera/AdmisionOperCanarios)
 - 🌱 Currently learning **Python, React, and NodeJS**
 - 💬 Ask me about **Java, Spring Boot, SQL, and Docker**
 - 👨‍💻 All my projects are available at [my GitHub profile](https://github.com/JoseGlezHerrera)
-- 📫 Reach me at: **jose.gonzalezh@protonmail.com**
+- 📫 Reach me at: **jose_gonzalezh@disroot.org**
 
 ---
 
