@@ -40,6 +40,6 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats-three-ochre-6kwcr3noj9.vercel.app/api?username=JoseGlezHerrera&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-three-ochre-6kwcr3noj9.vercel.app/api/top-langs?username=JoseGlezHerrera&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-three-ochre-6kwcr3noj9.vercel.app/api?username=JoseGlezHerrera&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-three-ochre-6kwcr3noj9.vercel.app/api/top-langs?username=JoseGlezHerrera&layout=compact&card_width=420&langs_count=10&theme=tokyonight&hide_border=true" height="180" />
 </div>
