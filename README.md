@@ -38,3 +38,8 @@
   <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" title="PostgreSQL"/></a>
   <a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" title="SQLite"/></a>
 </p>
+
+<div align="center">
+  <img src="https://github-readme-stats-three-ochre-6kwcr3noj9.vercel.app/api?username=JoseGlezHerrera&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-three-ochre-6kwcr3noj9.vercel.app/api/top-langs?username=JoseGlezHerrera&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
